@@ -1,0 +1,81 @@
+.container{
+    display: flex;
+    justify-content: center;
+    /* text-align: center; */
+}
+
+h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color:firebrick;
+    font-size: 23px;
+}
+
+body{
+    background-image: url(https://fondosmil.com/fondo/52714.jpg);
+}
+
+.form{
+    background-color:#ffff80;
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: #0000e6;
+    text-transform: capitalize;
+    opacity: 0.90;
+}
+
+.input-style{
+    border-radius: 0.2rem;
+    size: 2px;
+    width: 95%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.radio-style{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.button-style{
+    background-color: #00e673;
+    text-align: center;
+    margin-right: 70%;
+    width: 100%;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    opacity: 0.80;
+    border-radius: 0.2rem;
+    font-size: 14px;
+    color: white;
+}
+
+.button-style button{
+    text-align: center;
+    border-radius: 0.2rem;
+    margin: 8px;
+    font-size: 16px;
+    text-transform: capitalize;
+    line-height: 2.5rem;
+}
+
+
+.git-code{
+    margin: 0;
+    padding-top: 10px;
+    color: white;
+}
+
+.git-code button{
+    background-color: #00e673;
+    text-align: center;
+    margin-right: 70%;
+    width: 100%;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    opacity: 0.80;
+    border-radius: 0.2rem;
+    font-size: 14px;
+    color: white;
+}
+
+
